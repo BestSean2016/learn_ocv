@@ -14,6 +14,7 @@
 
 #pragma warning(disable:4996) //disable fopen error
 
+
 #include <stdio.h>
 #include <cv.h>
 #include <opencv.hpp>
